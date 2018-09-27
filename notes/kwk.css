@@ -1,0 +1,18 @@
+#header{background-image: url(https://i.imgur.com/iZr7VPJ.png)}
+
+#title{
+  color: limegreen;
+  background-color: white;
+  font-size: 50px;
+  border: 2px dotted;
+  height: 55px;
+  width: 55%;
+  position: relative;
+  left: 150px;
+  
+}
+
+
+.info{
+  color: rgb(250,0,100);
+}

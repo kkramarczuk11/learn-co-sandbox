@@ -1,0 +1,15 @@
+body {
+    background-color: lightblue;
+}
+h1 {
+  color: blue;
+  }
+p {color: #C61468;}
+#glitter {color: orange;
+border-style: dotted;
+  margin-left: 100px;
+  width: 380px;
+font-weight: bold;
+font-family: Lucida Console;}
+
+.friends {font-size: 25px}
